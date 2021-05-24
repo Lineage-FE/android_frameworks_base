@@ -75,4 +75,16 @@
     <string name="global_action_restart_bootloader_progress">Перезапуск в режим загрузчика\u2026</string>
     <string name="global_action_restart_download_progress">Перезапуск в режим загрузки\u2026</string>
     <string name="global_action_restart_fastboot_progress">Перезапуск в режим fastbootd\u2026</string>
+    <string name="biometric_dialog_button_use_face">Использовать лицо</string>
+
+    <!-- App Lock -->
+    <string name="applock_locked">&#160;Заблокировано</string>
+    <string name="applock_fingerprint_face">, отпечаток пальца или ваше лицо, чтобы разблокировать</string>
+    <string name="applock_face">&#160;или ваше лицо, чтобы разблокировать</string>
+    <string name="applock_fingerprint">&#160;или ваш отпечаток пальца, чтобы разблокировать</string>
+    <string name="applock_credential">&#160;разблокировать</string>
+    <string name="applock_unlock">Разблокировано</string>
+
+    <!-- Scrolling Screenshot string -->
+    <string name="scrollss">Прокрутка</string>
 </resources>
