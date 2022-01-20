@@ -298,7 +298,6 @@ public class PackageInstallerService extends IPackageInstaller.Stub implements
 
     @GuardedBy("mSessions")
     private void reconcileStagesLocked(String volumeUuid) {
-
         final ArraySet<File> unclaimedStages = getStagingDirsOnVolume(volumeUuid);
 
         // We also need to clean up orphaned staging directory for staged sessions
